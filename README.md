@@ -54,7 +54,7 @@ Welcome to Gemini Chat, a conversational AI chatbot powered by Google Gemini API
 
 ## Snapshot
 
-<img width="1470" alt="Screenshot 2024-07-30 at 7 20 15 AM" src="https://github.com/user-attachments/assets/4bb6c7e4-6749-4ef5-8f11-264f30a3efe6">
+<img width="1469" alt="Screenshot 2024-07-30 at 7 20 15 AM" src="https://github.com/user-attachments/assets/52b7ff63-ce98-4dc2-b422-c41c6e53fefa">
 
 
 ## Contributing
