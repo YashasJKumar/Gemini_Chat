@@ -52,6 +52,11 @@ Welcome to Gemini Chat, a conversational AI chatbot powered by Google Gemini API
 - **Chat Input**: Enter your prompt in the chat input box.
 - **Response**: The chatbot will generate a response, which will be displayed along with the response time.
 
+## Snapshot
+
+<img width="1470" alt="Screenshot 2024-07-30 at 7 20 15 AM" src="https://github.com/user-attachments/assets/4bb6c7e4-6749-4ef5-8f11-264f30a3efe6">
+
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
