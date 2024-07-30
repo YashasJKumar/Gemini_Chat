@@ -4,7 +4,7 @@ import PIL.Image as pil
 import streamlit as st
 import datetime
 
-API_KEY = 'AIzaSyD9355-soyTLE8RdIeksWJ5Yxv0ff3VoBs'
+API_KEY = 'YOUR_API_KEY'
 genai.configure(api_key=API_KEY)
 
 st.set_page_config(
